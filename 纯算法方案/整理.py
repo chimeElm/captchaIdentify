@@ -1,6 +1,6 @@
 # coding=gbk
 # -*- coding:uft-8 -*-
-# 整理
+# 鏁寸悊
 
 from PIL import Image
 import os
