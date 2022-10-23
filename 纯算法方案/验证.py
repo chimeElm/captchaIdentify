@@ -1,6 +1,6 @@
 # coding=gbk
 # -*- coding:uft-8 -*-
-# 验证
+# 楠岃瘉
 
 from PIL import Image
 import os
