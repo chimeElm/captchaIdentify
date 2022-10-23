@@ -8,5 +8,5 @@
 + 计算每种数字像素矩阵的平均灰度，取各数字与目标误差最小者作为识别结果
 + 经测试单数字识别准绝度80%以上，验证码识别正确率60%
 ---
-🍀已基于纯算法方案完成南工认证APP  
+🍀已基于纯算法方案完成[南工认证APP](https://github.com/chimeElm/netAuth "南工认证APP")  
 🚀B站视频讲解：[视频链接](https://www.bilibili.com/video/BV1nR4y197Gq "视频链接")
