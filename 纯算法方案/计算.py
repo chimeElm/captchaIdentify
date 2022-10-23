@@ -1,6 +1,6 @@
 # coding=gbk
 # -*- coding:uft-8 -*-
-# 计算
+# 璁＄畻
 
 import numpy as np
 
